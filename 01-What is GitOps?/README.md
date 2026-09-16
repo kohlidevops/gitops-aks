@@ -1,4 +1,3 @@
-````markdown
 # Lesson 01 — What is GitOps?
 
 ## 📚 Topics
